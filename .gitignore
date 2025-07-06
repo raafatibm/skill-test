@@ -25,6 +25,8 @@ go.work
 go.work.sum
 
 .vscode
+__debug_bin*
+
 
 
 # Editor/IDE
